@@ -1,4 +1,4 @@
-eslint-plugin-html
+elint-plugin-html
 ==================
 
 [![Build Status](https://travis-ci.org/BenoitZugmeyer/eslint-plugin-html.svg?branch=master)](https://travis-ci.org/BenoitZugmeyer/eslint-plugin-html)
@@ -7,6 +7,7 @@ This [`ESLint`](http://eslint.org) plugin extracts and lints scripts from HTML f
 
 Supported HTML extensions:
 
+* .ejs
 * .erb
 * .handelbars
 * .hbs

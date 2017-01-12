@@ -4,6 +4,7 @@ var path = require("path");
 var extract = require("./extract");
 
 var htmlExtensions = [
+  ".ejs",
   ".erb",
   ".handelbars",
   ".hbs",
